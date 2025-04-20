@@ -12,7 +12,7 @@ This is a simple interactive simulation of the Iterated Prisoner's Dilemma using
 - Bar chart visualization of strategy performance
 - Downloadable CSV report of all results
 
-## 📁 File Structure
+## 📁 Project Structure
 - app.py
 - README.md
 - Prisoner's Dilemma Ppt
