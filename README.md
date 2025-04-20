@@ -16,6 +16,7 @@ This is a simple interactive simulation of the Iterated Prisoner's Dilemma using
 - app.py
 - README.md
 - Prisoner's Dilemma Ppt
+- Videos
 
 ## 📦 Requirements
 
